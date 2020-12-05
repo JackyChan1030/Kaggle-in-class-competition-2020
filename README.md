@@ -1,14 +1,10 @@
 # Kaggle-in-class-competition-2020
 
 ## Getting Started
-In this project,  programming-assignment2.py need to run with the DataSet(iris_test.csv,iris_training.csv).
-
-## Files Edited: 
-Files edited: program-file/search.py, program-file/searchAgents.py.
-
+In this project, XGboost_Model1(9.68809)_MSBD5001Kaggle.ipynb need to run with the DataSet(test.csv,training.csv).
 
 ### Prerequisites
-This simple python script is run in python3 with some required libraries/package:
+This simple python notebook is run in python3 with some required libraries/package:
 ```
 numpy
 pandas 
@@ -22,6 +18,6 @@ If you need to install python3, can reference with https://realpython.com/instal
 ### Usage
 
 ```
-Run the Python Notebook 
+Run the Python Notebook and output the submission data
 
 ```
